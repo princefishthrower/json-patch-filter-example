@@ -1,5 +1,6 @@
 {
   "name": "jsonpatchfilterexample",
+  "homepage": "https://chrisfrew.in/json-patch-filter-example",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
