@@ -6,7 +6,7 @@ export class ApiService {
 
     constructor(endpoint: string, redirectUri: string | null = null) {
         this.redirectUri = redirectUri;
-        this.endpoint = `/api/${endpoint}`.replace("//", "/");
+        this.endpoint = `api/${endpoint}`.replace("//", "/");
         this.headers = new Headers({
             Accept: "application/json",
             "Content-Type": "application/json",

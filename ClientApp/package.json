@@ -1,6 +1,7 @@
 {
   "name": "jsonpatchfilterexample",
   "homepage": "https://chrisfrew.in/json-patch-filter-example",
+  "proxy": "http://localhost:9009",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

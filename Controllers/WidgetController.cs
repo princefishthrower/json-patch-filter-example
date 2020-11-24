@@ -10,14 +10,10 @@ using Newtonsoft.Json;
 
 namespace JsonPatchFilterExample.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("json-patch-filter-example/api/[controller]")]
     [ApiController]
     public class WidgetController : ControllerBase
     {
-        public WidgetController()
-        {
-        }
-
         [HttpGet("{id}")]
         public ActionResult<WidgetModel> Get(Guid id)
         {

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/json-patch-filter-example/static/css/main.dcfde02c.chunk.css",
-    "main.js": "/json-patch-filter-example/static/js/main.12aafcfb.chunk.js",
-    "main.js.map": "/json-patch-filter-example/static/js/main.12aafcfb.chunk.js.map",
+    "main.js": "/json-patch-filter-example/static/js/main.a5bf5c79.chunk.js",
+    "main.js.map": "/json-patch-filter-example/static/js/main.a5bf5c79.chunk.js.map",
     "runtime-main.js": "/json-patch-filter-example/static/js/runtime-main.aa88be22.js",
     "runtime-main.js.map": "/json-patch-filter-example/static/js/runtime-main.aa88be22.js.map",
     "static/css/2.74189dbb.chunk.css": "/json-patch-filter-example/static/css/2.74189dbb.chunk.css",
     "static/js/2.91e74ecf.chunk.js": "/json-patch-filter-example/static/js/2.91e74ecf.chunk.js",
     "static/js/2.91e74ecf.chunk.js.map": "/json-patch-filter-example/static/js/2.91e74ecf.chunk.js.map",
     "index.html": "/json-patch-filter-example/index.html",
-    "precache-manifest.b0f12754bb071bb15a59b4dc41ecd3a4.js": "/json-patch-filter-example/precache-manifest.b0f12754bb071bb15a59b4dc41ecd3a4.js",
+    "precache-manifest.fbbe18b46f223df33ca09bce0b26c319.js": "/json-patch-filter-example/precache-manifest.fbbe18b46f223df33ca09bce0b26c319.js",
     "service-worker.js": "/json-patch-filter-example/service-worker.js",
     "static/css/2.74189dbb.chunk.css.map": "/json-patch-filter-example/static/css/2.74189dbb.chunk.css.map",
     "static/css/main.dcfde02c.chunk.css.map": "/json-patch-filter-example/static/css/main.dcfde02c.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.74189dbb.chunk.css",
     "static/js/2.91e74ecf.chunk.js",
     "static/css/main.dcfde02c.chunk.css",
-    "static/js/main.12aafcfb.chunk.js"
+    "static/js/main.a5bf5c79.chunk.js"
   ]
 }
