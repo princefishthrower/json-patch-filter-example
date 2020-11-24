@@ -15,7 +15,6 @@
 [Dd]ebugPublic/
 x64/
 x86/
-build/
 bld/
 obj/
 Obj/
