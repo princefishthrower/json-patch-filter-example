@@ -38,6 +38,7 @@ namespace JsonPatchFilterExample
             }
             else
             {
+                app.UsePathBase("/json-patch-filter-example");
                 app.UseForwardedHeaders(new ForwardedHeadersOptions
                 {
                     ForwardedHeaders = ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto
