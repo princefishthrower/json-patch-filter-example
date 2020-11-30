@@ -10,7 +10,7 @@ using Newtonsoft.Json;
 
 namespace JsonPatchFilterExample.Controllers
 {
-    [Route("json-patch-filter-example/api/[controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class WidgetController : ControllerBase
     {
